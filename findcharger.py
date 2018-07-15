@@ -3,6 +3,11 @@
 ##  Cozmo by Anki - Find charger
 #############################
 
+#############################
+## Find faces, find cubes, scan the surrounding
+## find the charger, locate it based on other objects
+#############################
+
 import cozmo
 import time
 from cozmo.util import degrees, distance_mm, speed_mmps
